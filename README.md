@@ -2,7 +2,7 @@
 
 Stock Price Prediction Model
 
-• Tech Stack: Python, Matplotlib, NumPy, pandas, Tensorflow & Jupyter Notebook.
+• Tech Stack: Python, Matplotlib, NumPy, pandas, TensorFlow & Jupyter Notebook.
 
 • Data Visualization: The notebook starts by loading the historical stock prices from a CSV file and visualizing the closing price trends over time.
 
